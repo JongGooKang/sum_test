@@ -1,5 +1,5 @@
-fnedf __SUM_H__
+#ifdef __SUM_H__
 #define __SUM_H__
 int sum (int);
-#endif;
+#endif
 
